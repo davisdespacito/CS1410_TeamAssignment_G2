@@ -3,7 +3,7 @@ package application;
 import javafx.scene.shape.Rectangle;
 
 /**
- * @author davisP,
+ * @author davisP, LuisP
  *
  *
  */
