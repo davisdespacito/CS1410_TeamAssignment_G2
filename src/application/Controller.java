@@ -1,10 +1,8 @@
 package application;
 
 /**
- * Controller Class
- * 
- * test23
- * 
+ *
+ *
  */
 public class Controller {
 
