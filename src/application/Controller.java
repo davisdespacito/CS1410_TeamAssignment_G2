@@ -1,7 +1,7 @@
 package application;
 
 /**
- * 
+ * Controller Class
  */
 public class Controller {
 
